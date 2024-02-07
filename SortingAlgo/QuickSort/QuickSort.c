@@ -1,4 +1,4 @@
-//Quick Sort algorithm for finding Best, Average and Worst case time complexities
+//Quick Sort algorithm for finding Best, Average and Worst case Analysis
 
 #include <stdio.h>
 #include <stdlib.h>
