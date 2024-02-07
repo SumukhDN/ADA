@@ -1,4 +1,4 @@
-//Insertion Sort algorithm for finding Best, Average and Worst case Time complexity
+//Insertion Sort algorithm for finding Best, Average and Worst case Analysis
 
 #include <stdio.h>
 #include <stdlib.h>
