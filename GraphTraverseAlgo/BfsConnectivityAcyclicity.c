@@ -1,4 +1,4 @@
-//BFS Connectivity Acyclicity
+//BFS Connectivity Acyclicity.
 
 #include <stdio.h>
 
