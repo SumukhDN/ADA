@@ -1,4 +1,4 @@
-//Consecutive Integer checking algorithm for finding GCD
+//Consecutive Integer checking algorithm for finding GCD.
 
 #include <stdio.h>
 
