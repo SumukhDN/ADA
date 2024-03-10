@@ -1,4 +1,4 @@
-//Binary Seach algorithm to find Best, Average and Worst Case Time complexity.
+//Binary Seach algorithm to find Best, Average and Worst Case Time complexity
 
 #include <stdio.h>
 #include <stdlib.h>
