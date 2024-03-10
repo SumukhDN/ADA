@@ -1,4 +1,4 @@
-//Selection Sort Algorithm
+//Selection Sort Algorithm.
 //(All cases are same in this type of sorting)
 
 #include <stdio.h>
