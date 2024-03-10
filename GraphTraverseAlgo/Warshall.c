@@ -1,4 +1,4 @@
-//Warshall Algorithm
+//Warshall Algorithm.
 
 #include <stdio.h>
 
