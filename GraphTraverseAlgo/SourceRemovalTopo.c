@@ -1,4 +1,4 @@
-//Source Removal Topological Sorting
+//Source Removal Topological Sorting.
 
 #include <stdio.h>
 
