@@ -1,4 +1,4 @@
-//DFS Connectivity Acyclicity.
+//DFS Connectivity Acyclicity
 
 #include <stdio.h>
 
