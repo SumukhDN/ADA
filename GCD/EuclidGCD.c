@@ -1,4 +1,4 @@
-//Finding GCD using Euclid's Algorithm.
+//Finding GCD using Euclid's Algorithm
 
 #include <stdio.h>
 
