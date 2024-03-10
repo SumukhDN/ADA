@@ -1,4 +1,4 @@
-//Continously subtract smaller integer from the larger one until they become equal and result in GCD
+//Continously subtract smaller integer from the larger one until they become equal and result in GCD.
 
 #include <stdio.h>
 
