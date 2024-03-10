@@ -1,4 +1,4 @@
-//Heap Sort algorithm for finding Best, Average amd Worst case Analysis
+//Heap Sort algorithm for finding Best, Average amd Worst case Analysis.
 
 #include <stdio.h>
 #include <stdlib.h>
