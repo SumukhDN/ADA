@@ -1,4 +1,4 @@
-// Dijkstra's Algorithm in C 
+// Dijkstra's Algorithm in C.
 
 #include <stdio.h>
 #include <string.h>
