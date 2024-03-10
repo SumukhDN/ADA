@@ -1,4 +1,4 @@
-//Linear search algorithm to find Best, Average and Worst Case time complexity
+//Linear search algorithm to find Best, Average and Worst Case time complexity.
 
 #include <stdio.h>
 #include <stdlib.h>
