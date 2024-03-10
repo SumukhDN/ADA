@@ -1,4 +1,4 @@
-//Floyd Algorithm
+//Floyd Algorithm.
 
 #include <stdio.h>
 
