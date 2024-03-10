@@ -1,4 +1,4 @@
-//Merge Sort Algorithm for finding Best, Average and Worst case Analysis
+//Merge Sort Algorithm for finding Best, Average and Worst case Analysis.
 
 #include <stdio.h>
 #include <stdlib.h>
